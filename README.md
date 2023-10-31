@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm takecchi</h1>
-<h3 align="center">Develop for work and as a hobby.</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/CureDotTyphoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CureDotTyphoon" height="30" width="40" /></a>
