@@ -13,10 +13,7 @@
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [Cuculus](https://github.com/cuculus-dev) for fun  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🔭 最近は趣味で [Cuculus](https://github.com/cuculus-dev) を開発しています。 
 
 <br/>  
 
