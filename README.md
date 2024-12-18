@@ -13,7 +13,8 @@
 
 
 ## Rapidfire  
-- 🔭 最近は趣味で [Cuculus](https://github.com/cuculus-dev) を開発しています。 
+- 仕事では[株式会社ザ・ファージ](https://thephage.life)で糖尿病治療アプリを開発しています。
+- 🔭 趣味で [Cuculus](https://github.com/cuculus-dev) を開発しています。 
 
 <br/>  
 
