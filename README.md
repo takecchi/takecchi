@@ -14,8 +14,8 @@
 
 ## Rapidfire  
 - 仕事では[株式会社ザ・ファージ](https://thephage.life)で糖尿病治療アプリを開発しています。
-- 🔭 趣味で [Cuculus](https://github.com/cuculus-dev) を開発しています。
-- 🔭 趣味で [Tsumugi](https://github.com/takecchi/tsumugi) を開発しています。
+- 🔭 趣味で [Cuculus](https://github.com/cuculus-dev) (停止中)を開発しています。
+- 🔭 趣味で [Tsumugi](https://github.com/takecchi/tsumugi) (開発中)を開発しています。
 
 <br/>  
 
