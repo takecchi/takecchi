@@ -20,6 +20,19 @@
 <br/>  
 
 
+## Works  
+公開しているものとしては、こんなものを作っています。
+
+| Product | Repository | 概要 |
+| --- | --- | --- |
+| [Trade Butler](https://trade-butler.ordina.site/) | [escardia](https://github.com/escardia) | フリマ出品在庫をAIで効率管理するサービス。画像とタイトルを入力するだけで価格や説明文を生成し、出品を一元管理。 |
+| [VirchaMate](https://virchamate.com/) | [virchamate](https://github.com/virchamate) | AIキャラクターと会話し、やり取りを重ねるほど関係が深まっていくファン制作プロジェクト。 |
+| [codiva](https://www.npmjs.com/package/codiva) | [takecchi/codiva](https://github.com/takecchi/codiva) | 指示ごとに独立した git worktree 上で Claude Code セッションを並列実行する TUI アプリ。 |
+| [Tsumugi](https://tsumugi-chan.com) | [takecchi/tsumugi](https://github.com/takecchi/tsumugi) | AI Novel Studio。AIと一緒に小説を書くためのツール。 |
+
+<br/>  
+
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
