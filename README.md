@@ -26,6 +26,8 @@
 | [VirchaMate](https://virchamate.com/) | [virchamate](https://github.com/virchamate) | AIキャラクターと会話し、やり取りを重ねるほど関係が深まっていくファン制作プロジェクト。 |
 | [codiva](https://www.npmjs.com/package/codiva) | [takecchi/codiva](https://github.com/takecchi/codiva) | 指示ごとに独立した git worktree 上で Claude Code セッションを並列実行する TUI アプリ。 |
 | [Tsumugi](https://tsumugi-chan.com) | [takecchi/tsumugi](https://github.com/takecchi/tsumugi) | AI Novel Studio。AIと一緒に小説を書くためのツール。 |
+| alteroid | [takecchi/alteroid](https://github.com/takecchi/alteroid) | 人間の代わりに Claude Code へ指示を出す AI クローンを常駐させ、クローン / マネージャー / 作業者の3層で仕事を自走させるツール。 |
+| mnemora | [takecchi/mnemora](https://github.com/takecchi/mnemora) | LLM アプリケーションの下に敷く認知レイヤー。会話ログを全部プロンプトに積むのをやめ、必要な記憶だけを想起させる。 |
 
 <br/>  
 
