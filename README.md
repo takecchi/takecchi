@@ -92,16 +92,15 @@
 ## Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=takecchi&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takecchi&theme=default" align="left" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takecchi&hide_border=true&layout=compact" align="left" />
-
-<br/>  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takecchi&theme=default" align="left" />
 
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takecchi&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)  
+<br/>  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=takecchi&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
 <br/>  
 
